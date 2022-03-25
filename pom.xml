@@ -6,7 +6,7 @@
 
   <groupId>io.knotx</groupId>
   <artifactId>knotx-dependencies</artifactId>
-  <version>1.6.0</version>
+  <version>1.7.0</version>
 
   <name>Knot.x Dependencies - Knot.x components and required dependencies versions</name>
   <packaging>pom</packaging>
@@ -74,7 +74,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <!-- Stack versions -->
-    <vertx.stack.version>3.9.0</vertx.stack.version>
+    <vertx.stack.version>3.9.13</vertx.stack.version>
 
     <!-- Dependencies versions -->
     <jsoup.version>1.11.2</jsoup.version>
